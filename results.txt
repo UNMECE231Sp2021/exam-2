@@ -1,0 +1,56 @@
+Title: The Trial
+Author: Franz Kafka
+Genre: Drama
+ISBN: 9780805209990
+Pages: 304
+1st edition
+5/5
+
+Title: Dune
+Author: Frank Herbert
+Genre: Adventure
+ISBN: 9780441013593
+Pages: 687
+1st edition
+5/5
+
+Title: Lokasenna
+Author: Snorri Sturluson
+Genre: Lyric
+ISBN: x
+Pages: 21
+65 stanzas
+Ljooahattr meter
+
+Title: poem_title
+Author: poem_author
+Genre: Drama
+ISBN: poem_isbn
+Pages: 9
+12 stanzas
+Iambic pentameter meter
+
+Title: BRZRKR
+Author: Keanu Reeves
+Genre: Adventure
+ISBN: 1684156858
+Pages: 122
+Publisher: BOOM! Studios
+Artist: Ron Garney
+
+Title: Thor
+Author: Donny Cates
+Genre: Adventure
+ISBN: 1302920863
+Pages: 144
+Publisher: Marvel
+Artist: Nic Klein
+
+Title: Comic_title
+Author: Comic_author
+Genre: Adventure
+ISBN: Comic_isbn
+Pages: 45
+Publisher: Comic_publisher
+Artist: Comic_artist
+
